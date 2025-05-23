@@ -1,5 +1,9 @@
 html, css, javascript
 
+currently learning:
+* PHP
+* Javascript (on hold)
+
 next goals
 * learn a backend language and build something with it (PHP, Java, etc.)
 * focus more on javascript
